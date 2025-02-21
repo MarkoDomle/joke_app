@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+The firsst page. You shuld pick a category.
+![FirstPage](https://github.com/user-attachments/assets/bc379c6f-1bf8-4a8c-8ac6-5d8a5887b454)
 
-This project is a starting point for a Flutter application.
+How some of the pages look.
+![GeneralJokes](https://github.com/user-attachments/assets/5985926f-eeae-4893-9206-88d405f19b5a)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can also click the random button, you will have a random joke to make you laugh.
+![RandomJoke](https://github.com/user-attachments/assets/79bdced1-f20e-44fa-859e-ae585cf6d21c)
